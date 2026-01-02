@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I'm Aminoor</h1>
-<h3 align="center">I am a fourth-year software development student seeking a 4-month fall co-op for 2025.</h3>
+<h3 align="center">I am a software developer graduating from seneca polytechnic.</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
